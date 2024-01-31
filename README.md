@@ -1,6 +1,6 @@
 ### 👋 Olá, Mundo!
 
-Sou [Seu Nome], um entusiasta apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou embarcando na empolgante jornada da programação, explorando novas tecnologias e aprendendo constantemente.
+Sou Eduardo, um entusiasta apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou embarcando na empolgante jornada da programação, explorando novas tecnologias e aprendendo constantemente.
 
 🚀 **Meus Interesses:**
 - Desenvolvimento Web e Mobile
@@ -9,15 +9,16 @@ Sou [Seu Nome], um entusiasta apaixonado por tecnologia e desenvolvimento de sof
 
 💻 **Linguagens e Ferramentas:**
 - HTML, CSS, JavaScript
-- Python, Java
-- React, Node.js
 - Git, VSCode
+- Python, Java (APRENDENDO)
+- React, Node.js (APRENDENDO)
+
 
 📚 **Estou Aprendendo:**
-- [Inserir a tecnologia/framework atual que você está aprendendo]
+- Python, Java, React e Node.js
 
 🌱 **Metas:**
-- Aprimorar minhas habilidades em [insira algo específico]
+- Aprimorar minhas habilidades em Java
 - Contribuir para projetos de código aberto
 - Compartilhar conhecimento através de blogs e tutoriais
 
