@@ -1,16 +1,26 @@
-### Hi there 👋
+### 👋 Olá, Mundo!
 
-<!--
-**DevEdu7282/DevEdu7282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou [Seu Nome], um entusiasta apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou embarcando na empolgante jornada da programação, explorando novas tecnologias e aprendendo constantemente.
 
-Here are some ideas to get you started:
+🚀 **Meus Interesses:**
+- Desenvolvimento Web e Mobile
+- Ciência de Dados e Machine Learning
+- Open Source e Contribuições à Comunidade
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Linguagens e Ferramentas:**
+- HTML, CSS, JavaScript
+- Python, Java
+- React, Node.js
+- Git, VSCode
+
+📚 **Estou Aprendendo:**
+- [Inserir a tecnologia/framework atual que você está aprendendo]
+
+🌱 **Metas:**
+- Aprimorar minhas habilidades em [insira algo específico]
+- Contribuir para projetos de código aberto
+- Compartilhar conhecimento através de blogs e tutoriais
+
+🤝 **Estou aberto a colaborações e novas oportunidades!**
+
+Vamos construir o futuro juntos! 🔧✨
